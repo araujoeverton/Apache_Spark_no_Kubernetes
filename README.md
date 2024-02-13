@@ -27,6 +27,10 @@ Com a orquestração e automação de containers do Kubernetes temos algumas van
 - Abordagem de Microserviços
 - Instruções Declarativas
 - Open Source
+- Tempo de provisionamento
+- Agnóstico a cloud providers
+- Único ambiente para diversas versões do Spark
+- Ecosistema de integração ( logs, monitoramento ) 
 
 ### Atividades:
 1. Introdução ao Apache Spark e Kubernetes
