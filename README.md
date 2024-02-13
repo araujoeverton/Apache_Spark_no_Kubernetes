@@ -18,6 +18,15 @@ Aprendendo as melhores práticas, capazes de garantir redução de custos, forne
 
 O projeto foi criado com base no Workshop: Desenvolvendo uma aplicação NA PRÁTICA em PySpark e Spark SQL: Apache Spark no Kubernetes, ministrado por Tiago Xavier, na plataforma The Pumblers, da Engenharia de dados Academy.
 
+## Por que Kubernetes?
+Com a orquestração e automação de containers do Kubernetes temos algumas vantagens, como:
+
+- Alta Disponibilidade
+- Escalabilidade
+- Disaster Recovery
+- Abordagem de Microserviços
+- Instruções Declarativas
+- Open Source
 
 ### Atividades:
 1. Introdução ao Apache Spark e Kubernetes
